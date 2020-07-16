@@ -8,6 +8,6 @@ def find_max_value(array)
   # end
   # max
 
-  array.sort.first
+  array.sort.last
   
 end
