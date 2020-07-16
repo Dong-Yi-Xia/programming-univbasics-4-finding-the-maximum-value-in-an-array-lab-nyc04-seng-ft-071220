@@ -1,8 +1,8 @@
 def find_max_value(array)
   max = 0
-  array.each do |x| 
+  array.each do |x|
     if x > max
-      max = x 
+      max = x
     end
   end
   max 
